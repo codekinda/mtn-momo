@@ -1,8 +1,8 @@
 <?php
-$secondary_key = "28af198830c542ac8094e1d1984aa622";
+$secondary_key = "xxxxxxxxxxxxx";
 $data = array("providerCallbackHost" => "http://localhost/momo/callback.php");
-$apiUser = "ef4d7504-9ea2-44b5-980d-dbbe38109363";
-$apiKey = "72bd650e7f86422db3cf81ac757ba8bf";
+$apiUser = "xxxxxxxxxxxxxxxxxx";
+$apiKey = "xxxxxxxxxxxxxxxxxxx";
 
 //UUID Version 4
 function generate_uuid(){
